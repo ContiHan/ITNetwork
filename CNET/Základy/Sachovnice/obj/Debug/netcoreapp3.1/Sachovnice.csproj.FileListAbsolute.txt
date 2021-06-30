@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\bin\Debug\netcoreapp3.1\Sachovnice.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\bin\Debug\netcoreapp3.1\Sachovnice.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\bin\Debug\netcoreapp3.1\Sachovnice.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\bin\Debug\netcoreapp3.1\Sachovnice.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\bin\Debug\netcoreapp3.1\Sachovnice.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\bin\Debug\netcoreapp3.1\Sachovnice.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\obj\Debug\netcoreapp3.1\Sachovnice.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\obj\Debug\netcoreapp3.1\Sachovnice.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\obj\Debug\netcoreapp3.1\Sachovnice.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\obj\Debug\netcoreapp3.1\Sachovnice.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\obj\Debug\netcoreapp3.1\Sachovnice.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\obj\Debug\netcoreapp3.1\Sachovnice.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Sachovnice\obj\Debug\netcoreapp3.1\Sachovnice.genruntimeconfig.cache

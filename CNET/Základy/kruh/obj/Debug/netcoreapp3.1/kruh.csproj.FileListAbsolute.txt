@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\bin\Debug\netcoreapp3.1\kruh.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\bin\Debug\netcoreapp3.1\kruh.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\bin\Debug\netcoreapp3.1\kruh.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\bin\Debug\netcoreapp3.1\kruh.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\bin\Debug\netcoreapp3.1\kruh.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\bin\Debug\netcoreapp3.1\kruh.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\obj\Debug\netcoreapp3.1\kruh.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\obj\Debug\netcoreapp3.1\kruh.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\obj\Debug\netcoreapp3.1\kruh.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\obj\Debug\netcoreapp3.1\kruh.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\obj\Debug\netcoreapp3.1\kruh.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\kruh\obj\Debug\netcoreapp3.1\kruh.genruntimeconfig.cache

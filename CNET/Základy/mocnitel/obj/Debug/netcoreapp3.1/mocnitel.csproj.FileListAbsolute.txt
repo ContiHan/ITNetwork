@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\bin\Debug\netcoreapp3.1\mocnitel.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\bin\Debug\netcoreapp3.1\mocnitel.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\bin\Debug\netcoreapp3.1\mocnitel.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\bin\Debug\netcoreapp3.1\mocnitel.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\bin\Debug\netcoreapp3.1\mocnitel.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\bin\Debug\netcoreapp3.1\mocnitel.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\obj\Debug\netcoreapp3.1\mocnitel.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\obj\Debug\netcoreapp3.1\mocnitel.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\obj\Debug\netcoreapp3.1\mocnitel.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\obj\Debug\netcoreapp3.1\mocnitel.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\obj\Debug\netcoreapp3.1\mocnitel.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\obj\Debug\netcoreapp3.1\mocnitel.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\mocnitel\obj\Debug\netcoreapp3.1\mocnitel.genruntimeconfig.cache

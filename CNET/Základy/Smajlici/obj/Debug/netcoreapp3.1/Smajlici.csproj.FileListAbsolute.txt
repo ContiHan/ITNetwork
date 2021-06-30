@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\bin\Debug\netcoreapp3.1\Smajlici.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\bin\Debug\netcoreapp3.1\Smajlici.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\bin\Debug\netcoreapp3.1\Smajlici.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\bin\Debug\netcoreapp3.1\Smajlici.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\bin\Debug\netcoreapp3.1\Smajlici.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\bin\Debug\netcoreapp3.1\Smajlici.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\obj\Debug\netcoreapp3.1\Smajlici.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\obj\Debug\netcoreapp3.1\Smajlici.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\obj\Debug\netcoreapp3.1\Smajlici.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\obj\Debug\netcoreapp3.1\Smajlici.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\obj\Debug\netcoreapp3.1\Smajlici.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Smajlici\obj\Debug\netcoreapp3.1\Smajlici.genruntimeconfig.cache

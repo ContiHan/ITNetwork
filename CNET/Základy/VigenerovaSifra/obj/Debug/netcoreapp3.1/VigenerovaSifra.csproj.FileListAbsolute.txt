@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\bin\Debug\netcoreapp3.1\VigenerovaSifra.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\bin\Debug\netcoreapp3.1\VigenerovaSifra.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\bin\Debug\netcoreapp3.1\VigenerovaSifra.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\bin\Debug\netcoreapp3.1\VigenerovaSifra.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\bin\Debug\netcoreapp3.1\VigenerovaSifra.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\bin\Debug\netcoreapp3.1\VigenerovaSifra.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\obj\Debug\netcoreapp3.1\VigenerovaSifra.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\obj\Debug\netcoreapp3.1\VigenerovaSifra.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\obj\Debug\netcoreapp3.1\VigenerovaSifra.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\obj\Debug\netcoreapp3.1\VigenerovaSifra.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\obj\Debug\netcoreapp3.1\VigenerovaSifra.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\obj\Debug\netcoreapp3.1\VigenerovaSifra.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\VigenerovaSifra\obj\Debug\netcoreapp3.1\VigenerovaSifra.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\IntervalyDvojice\bin\Debug\netcoreapp3.1\IntervalyDvojice.exe
+C:\Users\danie\source\repos\IntervalyDvojice\bin\Debug\netcoreapp3.1\IntervalyDvojice.deps.json
+C:\Users\danie\source\repos\IntervalyDvojice\bin\Debug\netcoreapp3.1\IntervalyDvojice.runtimeconfig.json
+C:\Users\danie\source\repos\IntervalyDvojice\bin\Debug\netcoreapp3.1\IntervalyDvojice.runtimeconfig.dev.json
+C:\Users\danie\source\repos\IntervalyDvojice\bin\Debug\netcoreapp3.1\IntervalyDvojice.dll
+C:\Users\danie\source\repos\IntervalyDvojice\bin\Debug\netcoreapp3.1\IntervalyDvojice.pdb
+C:\Users\danie\source\repos\IntervalyDvojice\obj\Debug\netcoreapp3.1\IntervalyDvojice.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\IntervalyDvojice\obj\Debug\netcoreapp3.1\IntervalyDvojice.AssemblyInfo.cs
+C:\Users\danie\source\repos\IntervalyDvojice\obj\Debug\netcoreapp3.1\IntervalyDvojice.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\IntervalyDvojice\obj\Debug\netcoreapp3.1\IntervalyDvojice.dll
+C:\Users\danie\source\repos\IntervalyDvojice\obj\Debug\netcoreapp3.1\IntervalyDvojice.pdb
+C:\Users\danie\source\repos\IntervalyDvojice\obj\Debug\netcoreapp3.1\IntervalyDvojice.genruntimeconfig.cache

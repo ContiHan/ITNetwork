@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\bin\Debug\netcoreapp3.1\PiskvorkyBezMetod.exe
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\bin\Debug\netcoreapp3.1\PiskvorkyBezMetod.deps.json
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\bin\Debug\netcoreapp3.1\PiskvorkyBezMetod.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\bin\Debug\netcoreapp3.1\PiskvorkyBezMetod.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\bin\Debug\netcoreapp3.1\PiskvorkyBezMetod.dll
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\bin\Debug\netcoreapp3.1\PiskvorkyBezMetod.pdb
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\obj\Debug\netcoreapp3.1\PiskvorkyBezMetod.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\obj\Debug\netcoreapp3.1\PiskvorkyBezMetod.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\obj\Debug\netcoreapp3.1\PiskvorkyBezMetod.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\obj\Debug\netcoreapp3.1\PiskvorkyBezMetod.dll
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\obj\Debug\netcoreapp3.1\PiskvorkyBezMetod.pdb
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\obj\Debug\netcoreapp3.1\PiskvorkyBezMetod.genruntimeconfig.cache
+C:\Users\danie\source\repos\ITNetwork\CNET\Základy\PiskvorkyBezMetod\obj\Debug\netcoreapp3.1\PiskvorkyBezMetod.csprojAssemblyReference.cache

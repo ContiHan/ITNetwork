@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\bin\Debug\netcoreapp3.1\DelkaSlov.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\bin\Debug\netcoreapp3.1\DelkaSlov.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\bin\Debug\netcoreapp3.1\DelkaSlov.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\bin\Debug\netcoreapp3.1\DelkaSlov.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\bin\Debug\netcoreapp3.1\DelkaSlov.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\bin\Debug\netcoreapp3.1\DelkaSlov.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\obj\Debug\netcoreapp3.1\DelkaSlov.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\obj\Debug\netcoreapp3.1\DelkaSlov.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\obj\Debug\netcoreapp3.1\DelkaSlov.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\obj\Debug\netcoreapp3.1\DelkaSlov.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\obj\Debug\netcoreapp3.1\DelkaSlov.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\DelkaSlov\obj\Debug\netcoreapp3.1\DelkaSlov.genruntimeconfig.cache

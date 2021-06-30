@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\bin\Debug\netcoreapp3.1\ObsahujeITNetwork.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\bin\Debug\netcoreapp3.1\ObsahujeITNetwork.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\bin\Debug\netcoreapp3.1\ObsahujeITNetwork.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\bin\Debug\netcoreapp3.1\ObsahujeITNetwork.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\bin\Debug\netcoreapp3.1\ObsahujeITNetwork.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\bin\Debug\netcoreapp3.1\ObsahujeITNetwork.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\obj\Debug\netcoreapp3.1\ObsahujeITNetwork.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\obj\Debug\netcoreapp3.1\ObsahujeITNetwork.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\obj\Debug\netcoreapp3.1\ObsahujeITNetwork.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\obj\Debug\netcoreapp3.1\ObsahujeITNetwork.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\obj\Debug\netcoreapp3.1\ObsahujeITNetwork.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\ObsahujeITNetwork\obj\Debug\netcoreapp3.1\ObsahujeITNetwork.genruntimeconfig.cache

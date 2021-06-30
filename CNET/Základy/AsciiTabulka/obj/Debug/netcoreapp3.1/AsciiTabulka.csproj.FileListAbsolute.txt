@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\bin\Debug\netcoreapp3.1\AsciiTabulka.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\bin\Debug\netcoreapp3.1\AsciiTabulka.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\bin\Debug\netcoreapp3.1\AsciiTabulka.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\bin\Debug\netcoreapp3.1\AsciiTabulka.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\bin\Debug\netcoreapp3.1\AsciiTabulka.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\bin\Debug\netcoreapp3.1\AsciiTabulka.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\obj\Debug\netcoreapp3.1\AsciiTabulka.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\obj\Debug\netcoreapp3.1\AsciiTabulka.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\obj\Debug\netcoreapp3.1\AsciiTabulka.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\obj\Debug\netcoreapp3.1\AsciiTabulka.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\obj\Debug\netcoreapp3.1\AsciiTabulka.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\obj\Debug\netcoreapp3.1\AsciiTabulka.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\AsciiTabulka\obj\Debug\netcoreapp3.1\AsciiTabulka.genruntimeconfig.cache

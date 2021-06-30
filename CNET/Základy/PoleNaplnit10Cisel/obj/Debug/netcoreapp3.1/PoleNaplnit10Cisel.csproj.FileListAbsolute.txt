@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\bin\Debug\netcoreapp3.1\PoleNaplnit10Cisel.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\bin\Debug\netcoreapp3.1\PoleNaplnit10Cisel.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\bin\Debug\netcoreapp3.1\PoleNaplnit10Cisel.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\bin\Debug\netcoreapp3.1\PoleNaplnit10Cisel.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\bin\Debug\netcoreapp3.1\PoleNaplnit10Cisel.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\bin\Debug\netcoreapp3.1\PoleNaplnit10Cisel.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\obj\Debug\netcoreapp3.1\PoleNaplnit10Cisel.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\obj\Debug\netcoreapp3.1\PoleNaplnit10Cisel.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\obj\Debug\netcoreapp3.1\PoleNaplnit10Cisel.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\obj\Debug\netcoreapp3.1\PoleNaplnit10Cisel.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\obj\Debug\netcoreapp3.1\PoleNaplnit10Cisel.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\obj\Debug\netcoreapp3.1\PoleNaplnit10Cisel.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\PoleNaplnit10Cisel\obj\Debug\netcoreapp3.1\PoleNaplnit10Cisel.genruntimeconfig.cache

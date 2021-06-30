@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\bin\Debug\netcoreapp3.1\ZeleninaOvoce.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\bin\Debug\netcoreapp3.1\ZeleninaOvoce.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\bin\Debug\netcoreapp3.1\ZeleninaOvoce.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\bin\Debug\netcoreapp3.1\ZeleninaOvoce.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\bin\Debug\netcoreapp3.1\ZeleninaOvoce.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\bin\Debug\netcoreapp3.1\ZeleninaOvoce.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\obj\Debug\netcoreapp3.1\ZeleninaOvoce.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\obj\Debug\netcoreapp3.1\ZeleninaOvoce.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\obj\Debug\netcoreapp3.1\ZeleninaOvoce.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\obj\Debug\netcoreapp3.1\ZeleninaOvoce.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\obj\Debug\netcoreapp3.1\ZeleninaOvoce.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\obj\Debug\netcoreapp3.1\ZeleninaOvoce.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\ZeleninaOvoce\obj\Debug\netcoreapp3.1\ZeleninaOvoce.genruntimeconfig.cache

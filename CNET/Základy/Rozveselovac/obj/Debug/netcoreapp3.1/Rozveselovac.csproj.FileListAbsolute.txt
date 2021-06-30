@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\bin\Debug\netcoreapp3.1\Rozveselovac.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\bin\Debug\netcoreapp3.1\Rozveselovac.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\bin\Debug\netcoreapp3.1\Rozveselovac.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\bin\Debug\netcoreapp3.1\Rozveselovac.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\bin\Debug\netcoreapp3.1\Rozveselovac.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\bin\Debug\netcoreapp3.1\Rozveselovac.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\obj\Debug\netcoreapp3.1\Rozveselovac.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\obj\Debug\netcoreapp3.1\Rozveselovac.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\obj\Debug\netcoreapp3.1\Rozveselovac.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\obj\Debug\netcoreapp3.1\Rozveselovac.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\obj\Debug\netcoreapp3.1\Rozveselovac.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\obj\Debug\netcoreapp3.1\Rozveselovac.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Rozveselovac\obj\Debug\netcoreapp3.1\Rozveselovac.genruntimeconfig.cache

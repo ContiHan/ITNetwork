@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\bin\Debug\netcoreapp3.1\KvadratickaRovnice.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\bin\Debug\netcoreapp3.1\KvadratickaRovnice.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\bin\Debug\netcoreapp3.1\KvadratickaRovnice.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\bin\Debug\netcoreapp3.1\KvadratickaRovnice.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\bin\Debug\netcoreapp3.1\KvadratickaRovnice.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\bin\Debug\netcoreapp3.1\KvadratickaRovnice.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\obj\Debug\netcoreapp3.1\KvadratickaRovnice.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\obj\Debug\netcoreapp3.1\KvadratickaRovnice.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\obj\Debug\netcoreapp3.1\KvadratickaRovnice.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\obj\Debug\netcoreapp3.1\KvadratickaRovnice.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\obj\Debug\netcoreapp3.1\KvadratickaRovnice.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\obj\Debug\netcoreapp3.1\KvadratickaRovnice.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\KvadratickaRovnice\obj\Debug\netcoreapp3.1\KvadratickaRovnice.genruntimeconfig.cache

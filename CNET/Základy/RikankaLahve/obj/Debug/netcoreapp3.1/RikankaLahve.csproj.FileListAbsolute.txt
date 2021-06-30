@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\RikankaLahve\bin\Debug\netcoreapp3.1\RikankaLahve.exe
+C:\Users\danie\source\repos\RikankaLahve\bin\Debug\netcoreapp3.1\RikankaLahve.deps.json
+C:\Users\danie\source\repos\RikankaLahve\bin\Debug\netcoreapp3.1\RikankaLahve.runtimeconfig.json
+C:\Users\danie\source\repos\RikankaLahve\bin\Debug\netcoreapp3.1\RikankaLahve.runtimeconfig.dev.json
+C:\Users\danie\source\repos\RikankaLahve\bin\Debug\netcoreapp3.1\RikankaLahve.dll
+C:\Users\danie\source\repos\RikankaLahve\bin\Debug\netcoreapp3.1\RikankaLahve.pdb
+C:\Users\danie\source\repos\RikankaLahve\obj\Debug\netcoreapp3.1\RikankaLahve.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\RikankaLahve\obj\Debug\netcoreapp3.1\RikankaLahve.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\RikankaLahve\obj\Debug\netcoreapp3.1\RikankaLahve.AssemblyInfo.cs
+C:\Users\danie\source\repos\RikankaLahve\obj\Debug\netcoreapp3.1\RikankaLahve.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\RikankaLahve\obj\Debug\netcoreapp3.1\RikankaLahve.dll
+C:\Users\danie\source\repos\RikankaLahve\obj\Debug\netcoreapp3.1\RikankaLahve.pdb
+C:\Users\danie\source\repos\RikankaLahve\obj\Debug\netcoreapp3.1\RikankaLahve.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\bin\Debug\netcoreapp3.1\JmenoPrijmeniVek.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\bin\Debug\netcoreapp3.1\JmenoPrijmeniVek.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\bin\Debug\netcoreapp3.1\JmenoPrijmeniVek.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\bin\Debug\netcoreapp3.1\JmenoPrijmeniVek.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\bin\Debug\netcoreapp3.1\JmenoPrijmeniVek.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\bin\Debug\netcoreapp3.1\JmenoPrijmeniVek.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\obj\Debug\netcoreapp3.1\JmenoPrijmeniVek.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\obj\Debug\netcoreapp3.1\JmenoPrijmeniVek.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\obj\Debug\netcoreapp3.1\JmenoPrijmeniVek.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\obj\Debug\netcoreapp3.1\JmenoPrijmeniVek.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\obj\Debug\netcoreapp3.1\JmenoPrijmeniVek.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\JmenoPrijmeniVek\obj\Debug\netcoreapp3.1\JmenoPrijmeniVek.genruntimeconfig.cache

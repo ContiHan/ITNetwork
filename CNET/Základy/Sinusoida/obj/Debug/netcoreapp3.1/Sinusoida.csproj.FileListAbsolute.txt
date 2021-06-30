@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\bin\Debug\netcoreapp3.1\Sinusoida.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\bin\Debug\netcoreapp3.1\Sinusoida.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\bin\Debug\netcoreapp3.1\Sinusoida.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\bin\Debug\netcoreapp3.1\Sinusoida.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\bin\Debug\netcoreapp3.1\Sinusoida.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\bin\Debug\netcoreapp3.1\Sinusoida.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\obj\Debug\netcoreapp3.1\Sinusoida.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\obj\Debug\netcoreapp3.1\Sinusoida.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\obj\Debug\netcoreapp3.1\Sinusoida.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\obj\Debug\netcoreapp3.1\Sinusoida.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\obj\Debug\netcoreapp3.1\Sinusoida.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\obj\Debug\netcoreapp3.1\Sinusoida.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Sinusoida\obj\Debug\netcoreapp3.1\Sinusoida.genruntimeconfig.cache

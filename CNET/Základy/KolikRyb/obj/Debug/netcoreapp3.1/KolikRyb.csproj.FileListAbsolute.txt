@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\bin\Debug\netcoreapp3.1\KolikRyb.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\bin\Debug\netcoreapp3.1\KolikRyb.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\bin\Debug\netcoreapp3.1\KolikRyb.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\bin\Debug\netcoreapp3.1\KolikRyb.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\bin\Debug\netcoreapp3.1\KolikRyb.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\bin\Debug\netcoreapp3.1\KolikRyb.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\obj\Debug\netcoreapp3.1\KolikRyb.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\obj\Debug\netcoreapp3.1\KolikRyb.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\obj\Debug\netcoreapp3.1\KolikRyb.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\obj\Debug\netcoreapp3.1\KolikRyb.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\obj\Debug\netcoreapp3.1\KolikRyb.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\obj\Debug\netcoreapp3.1\KolikRyb.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\KolikRyb\obj\Debug\netcoreapp3.1\KolikRyb.genruntimeconfig.cache

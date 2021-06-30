@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.genruntimeconfig.cache

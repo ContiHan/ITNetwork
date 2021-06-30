@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\bin\Debug\netcoreapp3.1\MorseovkaPrevod.exe
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\bin\Debug\netcoreapp3.1\MorseovkaPrevod.deps.json
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\bin\Debug\netcoreapp3.1\MorseovkaPrevod.runtimeconfig.json
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\bin\Debug\netcoreapp3.1\MorseovkaPrevod.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\bin\Debug\netcoreapp3.1\MorseovkaPrevod.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\bin\Debug\netcoreapp3.1\MorseovkaPrevod.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\obj\Debug\netcoreapp3.1\MorseovkaPrevod.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\obj\Debug\netcoreapp3.1\MorseovkaPrevod.AssemblyInfo.cs
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\obj\Debug\netcoreapp3.1\MorseovkaPrevod.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\obj\Debug\netcoreapp3.1\MorseovkaPrevod.dll
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\obj\Debug\netcoreapp3.1\MorseovkaPrevod.pdb
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\obj\Debug\netcoreapp3.1\MorseovkaPrevod.genruntimeconfig.cache
+C:\Users\danie\source\repos\ITNetwork\Základy\MorseovkaPrevod\obj\Debug\netcoreapp3.1\MorseovkaPrevod.csprojAssemblyReference.cache
